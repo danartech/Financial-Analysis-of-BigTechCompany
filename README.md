@@ -14,6 +14,8 @@ This project involved a comprehensive financial analysis of BigTechCompany, focu
    - **Quarterly Financial Overview:** Analyzed revenues, operating income (EBITDA), net income, net income per share, and free cash flow (FCF). Calculated growth rates and key financial ratios such as EBITDA margin, net income margin, and FCF per diluted share.
    - **Customer Trends Analysis:** Examined changes in subscription costs, user attrition, new user acquisition, and churn rates. Identified patterns and anomalies, especially around the impact of subscription price increases.
    - **Annual Projections:** Projected future financial performance for FY 2023 and FY 2024. Estimated key metrics including revenues, operating income, net income, and FCF. Calculated the compound annual growth rate (CAGR) for the period 2020-2024.
+  
+   ![Screenshot Description](https://github.com/danartech/Financial-Analysis-of-BigTechCompany/blob/main/Slide2.JPG)
 
 3. **Presentation Preparation**
    - Created a PowerPoint presentation to effectively communicate the findings.
@@ -32,6 +34,8 @@ This project involved a comprehensive financial analysis of BigTechCompany, focu
    - The increase in subscription prices in Q1 2022 led to a spike in customer attrition and churn rates, particularly in Q1 and Q2 2022.
    - Despite initial negative impacts, customer growth trends showed recovery starting in Q4 2022, suggesting effective mitigation strategies.
 
+     ![Screenshot Description](https://github.com/danartech/Financial-Analysis-of-BigTechCompany/blob/main/Slide3.JPG)
+
 3. **Future Projections**
    - Financial projections for 2023 and 2024 indicated promising growth, with revenues expected to increase at a CAGR of 7%.
    - Improvements in financial metrics were anticipated, including a decrease in the Debt/EBITDA ratio to below the industry average, indicating a healthy financial position.
@@ -42,6 +46,8 @@ This project involved a comprehensive financial analysis of BigTechCompany, focu
 - **Presentation Skills:** Developed the ability to effectively communicate complex financial information through structured presentations.
 - **Strategic Thinking:** Learned to draw conclusions from financial data to make informed recommendations on client relationships.
 
+    ![Screenshot Description](https://github.com/danartech/Financial-Analysis-of-BigTechCompany/blob/main/Slide4.JPG)
+
 ## Recommendations
 
 - Establish a strategic relationship with Stargaze to better understand and mitigate customer churn.
@@ -50,7 +56,7 @@ This project involved a comprehensive financial analysis of BigTechCompany, focu
 ## Conclusion
 This project provided valuable insights into financial analysis and strategic decision-making, which are crucial skills for a career in financial analysis and investment banking.
 
----
+  ![Screenshot Description](https://github.com/danartech/Financial-Analysis-of-BigTechCompany/blob/main/Slide5.JPG)
 
 ### Files
 
