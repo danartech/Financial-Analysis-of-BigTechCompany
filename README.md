@@ -54,7 +54,8 @@ This project provided valuable insights into financial analysis and strategic de
 
 ### Files
 
-- `BigTech Analysis Presentation.pptx`
-- `BigTech - Financial analysis_Complete.xlsx`
+- [BigTech Analysis Presentation Video](https://drive.google.com/file/d/1nnh--QlTNh-1_p6t4xGGQq-nBX2ucM4j/view?usp=sharing)
+- [BigTech - Financial analysis_Spreadsheet](https://docs.google.com/spreadsheets/d/15LzVf8b504q0eXSZA47G5hh1bZorvyU2/edit?usp=sharing&ouid=115787856203609091100&rtpof=true&sd=true)
+- [Big Tech Power Point Presentation](https://docs.google.com/presentation/d/1Ky3Mcx6_GtTvCKxX8zbgGe8D2OHOXkMb/edit?usp=sharing&ouid=115787856203609091100&rtpof=true&sd=true)
 
 For more details, please refer to the attached files.
